@@ -1,4 +1,4 @@
-# Zakariya Raddaoui — Portfolio v2
+# Zakariya Raddaoui — Portfolio
 
 Modern portfolio built with **Vite + React + TypeScript + Tailwind CSS v4 + Framer Motion**.
 
@@ -26,14 +26,3 @@ src/
   hooks/        useScrollReveal, variants
   data/         index.ts  ← all your content lives here
 ```
-
-## Customization
-Edit `src/data/index.ts` to update projects, skills, experience, and stats.
-
-## Deploy to Vercel
-1. Push to a new GitHub repo
-2. Import on vercel.com — auto-detects Vite
-3. Deploy. Done.
-
-## Add your CV
-Drop `CV_Zakariya_Raddaoui.pdf` into `/public/` — the Hero download button already points to it.
